@@ -10,7 +10,7 @@ body{
  
 .face {
     color: #195ef3;
-    font-size: 100px;
+    font-size: 20px;
     font-weight: bold;
     display: block;
     text-align: center;
@@ -23,7 +23,7 @@ body{
 }
 .text {
     text-align: center;
-    font-size: x-large;
+    font-size: 20px;
     font-weight: bold;
     width: 100%;
     float: left;
